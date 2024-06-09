@@ -1,0 +1,73 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Eaglercraft 1.5.2 - Service Pack 1
+
+Released: October 27th, 2023 - "23w43a"
+
+New in Service Pack 1:
+
+Huge FPS boosts, lessons learned during the development of 1.8 have been applied
+to 1.5, and ayunami2000 added basic support for resource packs. Update your
+unblocked game websites ASAP for the best user experience on slow hardware.
+
+  - fixed sunrise/sunset fog color
+  - better optimized pipeline shader
+  - backported 1.8's state management
+  - backported 1.8's buffer streaming
+  - backported 1.8's hotbar FPS fix
+  - backported 1.8's double buffering
+  - backported 1.8's FXAA shader
+
+Made by lax1dude
+
+Run "GetRepositorySignature.bat", and verify that this is the result:
+
+
+~~~ Repository SHA-256: ~~~
+
+     71a8ef1c208d98f2
+     324d169ab580042f
+     aae707451c858c0c
+     599083505b32e0d7
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Additionally, verify that the following files have the following SHA-1 checksums:
+
+GetRepositorySignature.jar: DCE2D7FDA9065B2475E5894E5D0960B57B03C661
+GetRepositorySignature.bat: 4B995076348E03A5322F3EB6AF72948E4C27CEB6
+GetRepositorySignature.sh: 8B269BA0D54C2B4BD7E9199B10C9769D39F00DC6
+
+
+If this is all correct, then this is the official Eaglercraft 1.5.2 Service Pack 1
+
+
+You can download a clean copy of "GetRepositorySignature.jar" here: [https://deev.is/eagler/GetRepositorySignature.jar]
+
+Use "GetRepositorySignature.sh" in place of "GetRepositorySignature.bat" on linux
+
+
+run "java -jar GetRepositorySignature.jar" to launch a GUI version of the tool,
+which allows you to select the repository to check using a file chooser
+
+
+To verify the PGP signature on this message, my public key is here: [https://deev.is/certs/LAX1DUDE_eagler_public.asc]
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEcBgAq2s4AHU8tLsdcu68cJImpGoFAmU8lcwACgkQcu68cJIm
+pGofzg/+JROwhvzaxf53TTDLGW6/5cAYro5L07nrtvVcj29FVRBg/KQRaONau5oW
+B7fSgap+p7QuCESqfNqzErQKhpowBOAs985F7xNYoudgrvgAi66FKvgLsw57B0G4
+vh0P4fHqq+xaVOpwxz/0xCm1Ac6oak16Jx2itmPMRXgmmSDujpgxFSBTe+RzQPOP
+zCEW7GCSyjhOQWKeTNvTqqOJjBl8j/B3sD31DAG5D7yiE1tf7/a2TXv2/9CLaDb7
+Zc+VoAi6hfy7S5AJ0AcfWInogLzhb40u0SmFnnMmJSiGj27RoLJtNTNmZ9LD2bGC
+41qfuBk6d1SD7vGgA0rsLvHrrbABTydUwTy+6hj6Mtr4uM8OfGevlgDQV5TvJORr
+0bCGrHUz2g6l5MCuqjMgG+5iYgnj/7THEe6wC2O82U9BNz/MJoGc3fFQvVrQ2Zue
+WKA12ZQyZfF9Dya31IoYljMrOMvxvTuZO1C0dvP4Ts19yiAr+efY8G3oOnnMeyQb
+evTr+ysUHbZh0r+lPXzM1JfIZJqEMbHOKNzEL92btnd6Ft5EgVC2zFZj5kWYe3Uv
+SD5zO56PGIoGXZ6zrUQNUWL26MvvhdfJlZ4dMBBShMYzm8ueVMzrnhUUGQ7CxqMA
+P90Z/xfYFETNC9wVSlmiekhJdOaFrKc7ZMoO4zqlxrMVw1qG/fc=
+=VwBl
+-----END PGP SIGNATURE-----
